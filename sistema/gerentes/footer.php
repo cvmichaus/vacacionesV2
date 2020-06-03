@@ -1,0 +1,1 @@
+  <footer class="footer text-center"> <?php echo date('Y')?> &copy; Todos los derechos reservados a WRI mexicvo by wrimexico.mx </footer>
